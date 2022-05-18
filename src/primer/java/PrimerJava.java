@@ -13,6 +13,8 @@ public class PrimerJava {
         System.out.println("Ingrese su nombre");
         nombre = leer.next();
         System.out.println("hola mundo! soy " + nombre + " y tengo hambre");
+        
+        System.out.println("prueba para github");
     }
     
 }
